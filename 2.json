@@ -1,0 +1,5002 @@
+{
+  "class": [
+    {
+      "id": "B",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "0",
+      "time": "0"
+    },
+    {
+      "id": "B",
+      "className": "(AP)일반물리학Ⅱ",
+      "place": "물교",
+      "day": "0",
+      "time": "0"
+    },
+    {
+      "id": "B",
+      "className": "(AP)일반생물학",
+      "place": "생교",
+      "day": "0",
+      "time": "0"
+    },
+    {
+      "id": "B3",
+      "className": "물상과학과 융합",
+      "place": "융공4",
+      "day": "0",
+      "time": "0"
+    },
+    {
+      "id": "B",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "0",
+      "time": "1"
+    },
+    {
+      "id": "B",
+      "className": "(AP)일반물리학Ⅱ",
+      "place": "물교",
+      "day": "0",
+      "time": "1"
+    },
+    {
+      "id": "B",
+      "className": "(AP)일반생물학",
+      "place": "생교",
+      "day": "0",
+      "time": "1"
+    },
+    {
+      "id": "B3",
+      "className": "물상과학과 융합",
+      "place": "융공4",
+      "day": "0",
+      "time": "1"
+    },
+    {
+      "id": "C",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "0",
+      "time": "2"
+    },
+    {
+      "id": "C",
+      "className": "(AP)일반물리학Ⅱ",
+      "place": "물교",
+      "day": "0",
+      "time": "2"
+    },
+    {
+      "id": "C",
+      "className": "(AP)일반화학Ⅱ",
+      "place": "화교",
+      "day": "0",
+      "time": "2"
+    },
+    {
+      "id": "C",
+      "className": "(AP)프로그래밍과 문제해결",
+      "place": "컴실1",
+      "day": "0",
+      "time": "2"
+    },
+    {
+      "id": "C",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "0",
+      "time": "3"
+    },
+    {
+      "id": "C",
+      "className": "(AP)일반물리학Ⅱ",
+      "place": "물교",
+      "day": "0",
+      "time": "3"
+    },
+    {
+      "id": "C",
+      "className": "(AP)일반화학Ⅱ",
+      "place": "화교",
+      "day": "0",
+      "time": "3"
+    },
+    {
+      "id": "C",
+      "className": "(AP)프로그래밍과 문제해결",
+      "place": "컴실1",
+      "day": "0",
+      "time": "3"
+    },
+    {
+      "id": "W",
+      "className": "법과 정치",
+      "place": "인교3",
+      "day": "0",
+      "time": "4"
+    },
+    {
+      "id": "W",
+      "className": "(AP)일반화학실험Ⅱ",
+      "place": "화실1",
+      "day": "0",
+      "time": "4"
+    },
+    {
+      "id": "W",
+      "className": "논리적글쓰기",
+      "place": "인교1",
+      "day": "0",
+      "time": "4"
+    },
+    {
+      "id": "W",
+      "className": "고급영어작문",
+      "place": "외교3",
+      "day": "0",
+      "time": "4"
+    },
+    {
+      "id": "W",
+      "className": "법과 정치",
+      "place": "인교3",
+      "day": "0",
+      "time": "5"
+    },
+    {
+      "id": "W",
+      "className": "(AP)일반화학실험Ⅱ",
+      "place": "화실1",
+      "day": "0",
+      "time": "5"
+    },
+    {
+      "id": "W",
+      "className": "논리적글쓰기",
+      "place": "인교1",
+      "day": "0",
+      "time": "5"
+    },
+    {
+      "id": "W",
+      "className": "고급영어작문",
+      "place": "외교3",
+      "day": "0",
+      "time": "5"
+    },
+    {
+      "id": "D",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "0",
+      "time": "6"
+    },
+    {
+      "id": "D",
+      "className": "(AP)일반화학Ⅱ",
+      "place": "화교",
+      "day": "0",
+      "time": "6"
+    },
+    {
+      "id": "D",
+      "className": "(AP)일반생물학",
+      "place": "생교",
+      "day": "0",
+      "time": "6"
+    },
+    {
+      "id": "D",
+      "className": "(AP)프로그래밍과 문제해결",
+      "place": "컴실1",
+      "day": "0",
+      "time": "6"
+    },
+    {
+      "id": "D",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "0",
+      "time": "7"
+    },
+    {
+      "id": "D",
+      "className": "(AP)일반화학Ⅱ",
+      "place": "화교",
+      "day": "0",
+      "time": "7"
+    },
+    {
+      "id": "D",
+      "className": "(AP)일반생물학",
+      "place": "생교",
+      "day": "0",
+      "time": "7"
+    },
+    {
+      "id": "D",
+      "className": "(AP)프로그래밍과 문제해결",
+      "place": "컴실1",
+      "day": "0",
+      "time": "7"
+    },
+    {
+      "id": "M",
+      "className": "융수Ⅰ",
+      "place": "수교2",
+      "day": "1",
+      "time": "0"
+    },
+    {
+      "id": "M",
+      "className": "정수론",
+      "place": "수교1",
+      "day": "1",
+      "time": "0"
+    },
+    {
+      "id": "M",
+      "className": "아름다운바이오",
+      "place": "화실2",
+      "day": "1",
+      "time": "0"
+    },
+    {
+      "id": "M",
+      "className": "융수Ⅰ",
+      "place": "수교2",
+      "day": "1",
+      "time": "1"
+    },
+    {
+      "id": "M",
+      "className": "정수론",
+      "place": "수교1",
+      "day": "1",
+      "time": "1"
+    },
+    {
+      "id": "M",
+      "className": "아름다운바이오",
+      "place": "화실2",
+      "day": "1",
+      "time": "1"
+    },
+    {
+      "id": "B",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "1",
+      "time": "2"
+    },
+    {
+      "id": "B",
+      "className": "(AP)일반물리학Ⅱ",
+      "place": "물교",
+      "day": "1",
+      "time": "2"
+    },
+    {
+      "id": "B",
+      "className": "(AP)일반생물학",
+      "place": "생교",
+      "day": "1",
+      "time": "2"
+    },
+    {
+      "id": "B",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "1",
+      "time": "3"
+    },
+    {
+      "id": "B",
+      "className": "(AP)일반물리학Ⅱ",
+      "place": "물교",
+      "day": "1",
+      "time": "3"
+    },
+    {
+      "id": "B",
+      "className": "(AP)일반생물학",
+      "place": "생교",
+      "day": "1",
+      "time": "3"
+    },
+    {
+      "id": "B3",
+      "className": "물상과학과 융합",
+      "place": "융공4",
+      "day": "1",
+      "time": "3"
+    },
+    {
+      "id": "L",
+      "className": "융수Ⅰ",
+      "place": "수교2",
+      "day": "1",
+      "time": "4"
+    },
+    {
+      "id": "L",
+      "className": "정수론",
+      "place": "수교1",
+      "day": "1",
+      "time": "4"
+    },
+    {
+      "id": "L",
+      "className": "아름다운바이오",
+      "place": "생실1",
+      "day": "1",
+      "time": "4"
+    },
+    {
+      "id": "Z",
+      "className": "논리적글쓰기",
+      "place": "인교1",
+      "day": "1",
+      "time": "5"
+    },
+    {
+      "id": "Z",
+      "className": "아티언스",
+      "place": "음악",
+      "day": "1",
+      "time": "5"
+    },
+    {
+      "id": "Z",
+      "className": "고급영어작문",
+      "place": "외교3",
+      "day": "1",
+      "time": "5"
+    },
+    {
+      "id": "Z",
+      "className": "고급영어토론",
+      "place": "외교2",
+      "day": "1",
+      "time": "5"
+    },
+    {
+      "id": "Z",
+      "className": "논리적글쓰기",
+      "place": "인교1",
+      "day": "1",
+      "time": "6"
+    },
+    {
+      "id": "Z",
+      "className": "아티언스",
+      "place": "음악",
+      "day": "1",
+      "time": "6"
+    },
+    {
+      "id": "Z",
+      "className": "고급영어작문",
+      "place": "외교3",
+      "day": "1",
+      "time": "6"
+    },
+    {
+      "id": "Z",
+      "className": "고급영어토론",
+      "place": "외교2",
+      "day": "1",
+      "time": "6"
+    },
+    {
+      "id": "A",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "1",
+      "time": "7"
+    },
+    {
+      "id": "A",
+      "className": "(AP)일반물리학Ⅱ",
+      "place": "물교",
+      "day": "1",
+      "time": "7"
+    },
+    {
+      "id": "A",
+      "className": "(AP)일반화학Ⅱ",
+      "place": "화교",
+      "day": "1",
+      "time": "7"
+    },
+    {
+      "id": "A3",
+      "className": "물상과학과 융합",
+      "place": "융공4",
+      "day": "1",
+      "time": "7"
+    },
+    {
+      "id": "A",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "1",
+      "time": "8"
+    },
+    {
+      "id": "A",
+      "className": "(AP)일반물리학Ⅱ",
+      "place": "물교",
+      "day": "1",
+      "time": "8"
+    },
+    {
+      "id": "A",
+      "className": "(AP)일반화학Ⅱ",
+      "place": "화교",
+      "day": "1",
+      "time": "8"
+    },
+    {
+      "id": "A3",
+      "className": "물상과학과 융합",
+      "place": "융공4",
+      "day": "1",
+      "time": "8"
+    },
+    {
+      "id": "C",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "2",
+      "time": "0"
+    },
+    {
+      "id": "C",
+      "className": "(AP)일반물리학Ⅱ",
+      "place": "물교",
+      "day": "2",
+      "time": "0"
+    },
+    {
+      "id": "C",
+      "className": "(AP)일반화학Ⅱ",
+      "place": "화교",
+      "day": "2",
+      "time": "0"
+    },
+    {
+      "id": "C",
+      "className": "(AP)프로그래밍과 문제해결",
+      "place": "컴실1",
+      "day": "2",
+      "time": "0"
+    },
+    {
+      "id": "C",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "2",
+      "time": "1"
+    },
+    {
+      "id": "C",
+      "className": "(AP)일반물리학Ⅱ",
+      "place": "물교",
+      "day": "2",
+      "time": "1"
+    },
+    {
+      "id": "C",
+      "className": "(AP)일반화학Ⅱ",
+      "place": "화교",
+      "day": "2",
+      "time": "1"
+    },
+    {
+      "id": "C",
+      "className": "(AP)프로그래밍과 문제해결",
+      "place": "컴실1",
+      "day": "2",
+      "time": "1"
+    },
+    {
+      "id": "C1",
+      "className": "단체운동",
+      "place": "체육관",
+      "day": "2",
+      "time": "1"
+    },
+    {
+      "id": "L",
+      "className": "융수Ⅰ",
+      "place": "수교2",
+      "day": "2",
+      "time": "2"
+    },
+    {
+      "id": "L",
+      "className": "정수론",
+      "place": "수교1",
+      "day": "2",
+      "time": "2"
+    },
+    {
+      "id": "L",
+      "className": "아름다운바이오",
+      "place": "화실2",
+      "day": "2",
+      "time": "2"
+    },
+    {
+      "id": "L2",
+      "className": "법과 정치",
+      "place": "인교3",
+      "day": "2",
+      "time": "2"
+    },
+    {
+      "id": "L2",
+      "className": "생명과학실험Ⅱ",
+      "place": "생실1",
+      "day": "2",
+      "time": "2"
+    },
+    {
+      "id": "L",
+      "className": "융수Ⅰ",
+      "place": "수교2",
+      "day": "2",
+      "time": "3"
+    },
+    {
+      "id": "L",
+      "className": "정수론",
+      "place": "수교1",
+      "day": "2",
+      "time": "3"
+    },
+    {
+      "id": "L",
+      "className": "아름다운바이오",
+      "place": "화실2",
+      "day": "2",
+      "time": "3"
+    },
+    {
+      "id": "L2",
+      "className": "법과 정치",
+      "place": "인교3",
+      "day": "2",
+      "time": "3"
+    },
+    {
+      "id": "L2",
+      "className": "생명과학실험Ⅱ",
+      "place": "생실1",
+      "day": "2",
+      "time": "3"
+    },
+    {
+      "id": "O",
+      "className": "일반지구과학Ⅱ",
+      "place": "지실1, 지실2",
+      "day": "2",
+      "time": "4"
+    },
+    {
+      "id": "O",
+      "className": "물상과학과 융합",
+      "place": "융공4",
+      "day": "2",
+      "time": "4"
+    },
+    {
+      "id": "O",
+      "className": "융수Ⅰ",
+      "place": "수교2",
+      "day": "2",
+      "time": "4"
+    },
+    {
+      "id": "O",
+      "className": "인공지능과 미래사회",
+      "place": "컴실1",
+      "day": "2",
+      "time": "4"
+    },
+    {
+      "id": "A",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "3",
+      "time": "0"
+    },
+    {
+      "id": "A",
+      "className": "(AP)일반물리학Ⅱ",
+      "place": "물교",
+      "day": "3",
+      "time": "0"
+    },
+    {
+      "id": "A",
+      "className": "(AP)일반화학Ⅱ",
+      "place": "화교",
+      "day": "3",
+      "time": "0"
+    },
+    {
+      "id": "A2",
+      "className": "아티언스",
+      "place": "음악",
+      "day": "3",
+      "time": "0"
+    },
+    {
+      "id": "A",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "3",
+      "time": "1"
+    },
+    {
+      "id": "A",
+      "className": "(AP)일반물리학Ⅱ",
+      "place": "물교",
+      "day": "3",
+      "time": "1"
+    },
+    {
+      "id": "A",
+      "className": "(AP)일반화학Ⅱ",
+      "place": "화교",
+      "day": "3",
+      "time": "1"
+    },
+    {
+      "id": "A2",
+      "className": "아티언스",
+      "place": "음악",
+      "day": "3",
+      "time": "1"
+    },
+    {
+      "id": "A3",
+      "className": "물상과학과 융합",
+      "place": "융공4",
+      "day": "3",
+      "time": "1"
+    },
+    {
+      "id": "X",
+      "className": "(AP)일반물리학실험Ⅱ",
+      "place": "물실2",
+      "day": "3",
+      "time": "2"
+    },
+    {
+      "id": "X",
+      "className": "논리적글쓰기",
+      "place": "인교1",
+      "day": "3",
+      "time": "2"
+    },
+    {
+      "id": "X",
+      "className": "아티언스",
+      "place": "음악",
+      "day": "3",
+      "time": "2"
+    },
+    {
+      "id": "X",
+      "className": "고급영어토론",
+      "place": "외교2",
+      "day": "3",
+      "time": "2"
+    },
+    {
+      "id": "X",
+      "className": "(AP)일반물리학실험Ⅱ",
+      "place": "물실2",
+      "day": "3",
+      "time": "3"
+    },
+    {
+      "id": "X",
+      "className": "논리적글쓰기",
+      "place": "인교1",
+      "day": "3",
+      "time": "3"
+    },
+    {
+      "id": "X",
+      "className": "아티언스",
+      "place": "음악",
+      "day": "3",
+      "time": "3"
+    },
+    {
+      "id": "X",
+      "className": "고급영어토론",
+      "place": "외교2",
+      "day": "3",
+      "time": "3"
+    },
+    {
+      "id": "M",
+      "className": "융수Ⅰ",
+      "place": "수교2",
+      "day": "3",
+      "time": "4"
+    },
+    {
+      "id": "M",
+      "className": "정수론",
+      "place": "수교1",
+      "day": "3",
+      "time": "4"
+    },
+    {
+      "id": "M",
+      "className": "아름다운바이오",
+      "place": "생실1",
+      "day": "3",
+      "time": "4"
+    },
+    {
+      "id": "M1",
+      "className": "단체운동",
+      "place": "체육관",
+      "day": "3",
+      "time": "4"
+    },
+    {
+      "id": "D",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "3",
+      "time": "5"
+    },
+    {
+      "id": "D",
+      "className": "(AP)일반화학Ⅱ",
+      "place": "화교",
+      "day": "3",
+      "time": "5"
+    },
+    {
+      "id": "D",
+      "className": "(AP)일반생물학",
+      "place": "생교",
+      "day": "3",
+      "time": "5"
+    },
+    {
+      "id": "D",
+      "className": "(AP)프로그래밍과 문제해결",
+      "place": "컴실1",
+      "day": "3",
+      "time": "5"
+    },
+    {
+      "id": "D2",
+      "className": "법과 정치",
+      "place": "인교3",
+      "day": "3",
+      "time": "5"
+    },
+    {
+      "id": "D",
+      "className": "(AP)미적분학Ⅱ",
+      "place": "수교2",
+      "day": "3",
+      "time": "6"
+    },
+    {
+      "id": "D",
+      "className": "(AP)일반화학Ⅱ",
+      "place": "화교",
+      "day": "3",
+      "time": "6"
+    },
+    {
+      "id": "D",
+      "className": "(AP)일반생물학",
+      "place": "생교",
+      "day": "3",
+      "time": "6"
+    },
+    {
+      "id": "D",
+      "className": "(AP)프로그래밍과 문제해결",
+      "place": "컴실1",
+      "day": "3",
+      "time": "6"
+    },
+    {
+      "id": "D2",
+      "className": "법과 정치",
+      "place": "인교3",
+      "day": "3",
+      "time": "6"
+    },
+    {
+      "id": "N",
+      "className": "융수Ⅰ",
+      "place": "수교2",
+      "day": "3",
+      "time": "7"
+    },
+    {
+      "id": "N",
+      "className": "정수론",
+      "place": "수교1",
+      "day": "3",
+      "time": "7"
+    },
+    {
+      "id": "N",
+      "className": "인공지능과 미래사회",
+      "place": "컴실1",
+      "day": "3",
+      "time": "7"
+    },
+    {
+      "id": "N",
+      "className": "융수Ⅰ",
+      "place": "수교2",
+      "day": "3",
+      "time": "8"
+    },
+    {
+      "id": "N",
+      "className": "정수론",
+      "place": "수교1",
+      "day": "3",
+      "time": "8"
+    },
+    {
+      "id": "N",
+      "className": "인공지능과 미래사회",
+      "place": "컴실1",
+      "day": "3",
+      "time": "8"
+    },
+    {
+      "id": "O",
+      "className": "일반지구과학Ⅱ",
+      "place": "지실2",
+      "day": "4",
+      "time": "0"
+    },
+    {
+      "id": "O",
+      "className": "물상과학과 융합",
+      "place": "융공4",
+      "day": "4",
+      "time": "0"
+    },
+    {
+      "id": "O",
+      "className": "융수Ⅰ",
+      "place": "수교2",
+      "day": "4",
+      "time": "0"
+    },
+    {
+      "id": "O",
+      "className": "인공지능과 미래사회",
+      "place": "컴실1",
+      "day": "4",
+      "time": "0"
+    },
+    {
+      "id": "O2",
+      "className": "법과 정치",
+      "place": "인교3",
+      "day": "4",
+      "time": "0"
+    },
+    {
+      "id": "O",
+      "className": "일반지구과학Ⅱ",
+      "place": "지실1",
+      "day": "4",
+      "time": "1"
+    },
+    {
+      "id": "O",
+      "className": "물상과학과 융합",
+      "place": "융공4",
+      "day": "4",
+      "time": "1"
+    },
+    {
+      "id": "O",
+      "className": "융수Ⅰ",
+      "place": "수교2",
+      "day": "4",
+      "time": "1"
+    },
+    {
+      "id": "O",
+      "className": "인공지능과 미래사회",
+      "place": "컴실1",
+      "day": "4",
+      "time": "1"
+    },
+    {
+      "id": "O2",
+      "className": "법과 정치",
+      "place": "인교3",
+      "day": "4",
+      "time": "1"
+    },
+    {
+      "id": "Y",
+      "className": "논리적글쓰기",
+      "place": "인교1",
+      "day": "4",
+      "time": "2"
+    },
+    {
+      "id": "Y",
+      "className": "아티언스",
+      "place": "음악",
+      "day": "4",
+      "time": "2"
+    },
+    {
+      "id": "Y",
+      "className": "(AP)일반화학실험Ⅱ",
+      "place": "화실1",
+      "day": "4",
+      "time": "2"
+    },
+    {
+      "id": "Y",
+      "className": "고급영어토론",
+      "place": "외교2",
+      "day": "4",
+      "time": "2"
+    },
+    {
+      "id": "Y",
+      "className": "논리적글쓰기",
+      "place": "인교1",
+      "day": "4",
+      "time": "3"
+    },
+    {
+      "id": "Y",
+      "className": "아티언스",
+      "place": "음악",
+      "day": "4",
+      "time": "3"
+    },
+    {
+      "id": "Y",
+      "className": "(AP)일반화학실험Ⅱ",
+      "place": "화실1",
+      "day": "4",
+      "time": "3"
+    },
+    {
+      "id": "Y",
+      "className": "고급영어토론",
+      "place": "외교2",
+      "day": "4",
+      "time": "3"
+    },
+    {
+      "id": "N",
+      "className": "융수Ⅰ",
+      "place": "수교2",
+      "day": "4",
+      "time": "4"
+    },
+    {
+      "id": "N",
+      "className": "정수론",
+      "place": "수교1",
+      "day": "4",
+      "time": "4"
+    },
+    {
+      "id": "N",
+      "className": "인공지능과 미래사회",
+      "place": "컴실1",
+      "day": "4",
+      "time": "4"
+    },
+    {
+      "id": "N1",
+      "className": "단체운동",
+      "place": "체육관",
+      "day": "4",
+      "time": "4"
+    }
+  ],
+  "user": [
+    {
+      "name": "김보민",
+      "id": "20101",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "Y"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "이나윤",
+      "id": "20102",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "홍지민",
+      "id": "20103",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "김건호",
+      "id": "20104",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "W"
+        },
+        {
+          "className": "생명과학실험Ⅱ",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "김재원",
+      "id": "20105",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반물리학실험Ⅱ",
+          "id": "X"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "W"
+        }
+      ]
+    },
+    {
+      "name": "김정훈",
+      "id": "20106",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "A3"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "박상윤",
+      "id": "20107",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "일반지구과학Ⅱ",
+          "id": "O"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "박준모",
+      "id": "20108",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반물리학실험Ⅱ",
+          "id": "X"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "변우석",
+      "id": "20109",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반물리학실험Ⅱ",
+          "id": "X"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "양병후",
+      "id": "20110",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "이다현",
+      "id": "20111",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "Y"
+        },
+        {
+          "className": "생명과학실험Ⅱ",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "W"
+        }
+      ]
+    },
+    {
+      "name": "이현존",
+      "id": "20112",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "장연재",
+      "id": "20113",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "W"
+        }
+      ]
+    },
+    {
+      "name": "정규원",
+      "id": "20114",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "W"
+        }
+      ]
+    },
+    {
+      "name": "최준우",
+      "id": "20115",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "A3"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "홍민규",
+      "id": "20116",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "A3"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "강효린",
+      "id": "20201",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "김예원",
+      "id": "20202",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "C"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "송윤서",
+      "id": "20203",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "W"
+        },
+        {
+          "className": "생명과학실험Ⅱ",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "강은찬",
+      "id": "20204",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "김건",
+      "id": "20205",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "일반지구과학Ⅱ",
+          "id": "O"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "박준호",
+      "id": "20206",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "Y"
+        },
+        {
+          "className": "생명과학실험Ⅱ",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "엄재현",
+      "id": "20207",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "W"
+        }
+      ]
+    },
+    {
+      "name": "이경록",
+      "id": "20208",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "이수혁",
+      "id": "20209",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "이제하",
+      "id": "20210",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "이지상",
+      "id": "20211",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "Y"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "이충현",
+      "id": "20212",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "이현택",
+      "id": "20213",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "일반지구과학Ⅱ",
+          "id": "O"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "장원준",
+      "id": "20214",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "Y"
+        },
+        {
+          "className": "생명과학실험Ⅱ",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "W"
+        }
+      ]
+    },
+    {
+      "name": "최준영",
+      "id": "20215",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "C"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "황선우",
+      "id": "20216",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "W"
+        }
+      ]
+    },
+    {
+      "name": "김하경",
+      "id": "20301",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "생명과학실험Ⅱ",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "윤지후",
+      "id": "20302",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "정서연",
+      "id": "20303",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "권우진",
+      "id": "20304",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "김민혁",
+      "id": "20305",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "A3"
+        },
+        {
+          "className": "일반지구과학Ⅱ",
+          "id": "O"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "김주헌",
+      "id": "20306",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "김진원",
+      "id": "20307",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "C"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "민준우",
+      "id": "20308",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "(AP)일반물리학실험Ⅱ",
+          "id": "X"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "서우진",
+      "id": "20309",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "C"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "송민건",
+      "id": "20310",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "일반지구과학Ⅱ",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "W"
+        }
+      ]
+    },
+    {
+      "name": "윤동현",
+      "id": "20311",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "이용준",
+      "id": "20312",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "A3"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반물리학실험Ⅱ",
+          "id": "X"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "W"
+        }
+      ]
+    },
+    {
+      "name": "정지후",
+      "id": "20313",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "A3"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "Y"
+        },
+        {
+          "className": "생명과학실험Ⅱ",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "조신우",
+      "id": "20314",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "W"
+        }
+      ]
+    },
+    {
+      "name": "홍근우",
+      "id": "20315",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "홍재민",
+      "id": "20316",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "남세령",
+      "id": "20401",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "A3"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "(AP)일반물리학실험Ⅱ",
+          "id": "X"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "백승해",
+      "id": "20402",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "Y"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "이세아",
+      "id": "20403",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "Y"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "홍유진",
+      "id": "20404",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "A3"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "강민서",
+      "id": "20405",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "C"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "권용우",
+      "id": "20406",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "김강윤",
+      "id": "20407",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "일반지구과학Ⅱ",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "박민준",
+      "id": "20408",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "박세현",
+      "id": "20409",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반물리학실험Ⅱ",
+          "id": "X"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "W"
+        }
+      ]
+    },
+    {
+      "name": "박예성",
+      "id": "20410",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "박진우",
+      "id": "20411",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "박한선",
+      "id": "20412",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "W"
+        }
+      ]
+    },
+    {
+      "name": "박효성",
+      "id": "20413",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "D"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "손정훈",
+      "id": "20414",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "C"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "A3"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "송예준",
+      "id": "20415",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "C"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "장도연",
+      "id": "20416",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "W"
+        },
+        {
+          "className": "생명과학실험Ⅱ",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "권담은",
+      "id": "20501",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "A3"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "신채민",
+      "id": "20502",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "이영서",
+      "id": "20503",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "W"
+        },
+        {
+          "className": "생명과학실험Ⅱ",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "권도윤",
+      "id": "20504",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "A3"
+        },
+        {
+          "className": "단체운동",
+          "id": "M1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "길민교",
+      "id": "20505",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "일반지구과학Ⅱ",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "마진욱",
+      "id": "20506",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "L"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "C"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "배병찬",
+      "id": "20507",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "송지환",
+      "id": "20508",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "정수론",
+          "id": "L"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "A3"
+        },
+        {
+          "className": "단체운동",
+          "id": "N1"
+        },
+        {
+          "className": "법과 정치",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "X"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "신재원",
+      "id": "20509",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "B3"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Y"
+        }
+      ]
+    },
+    {
+      "name": "심동하",
+      "id": "20510",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "W"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "윤건우",
+      "id": "20511",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "물상과학과 융합",
+          "id": "O"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "법과 정치",
+          "id": "D2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "Y"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "이원준",
+      "id": "20512",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "O"
+        },
+        {
+          "className": "(AP)프로그래밍과 문제해결",
+          "id": "C"
+        },
+        {
+          "className": "정수론",
+          "id": "M"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "N"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Z"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "임지후",
+      "id": "20513",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "N"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "M"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "(AP)일반화학실험Ⅱ",
+          "id": "W"
+        },
+        {
+          "className": "생명과학실험Ⅱ",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "Z"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    },
+    {
+      "name": "조영준",
+      "id": "20514",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반물리학Ⅱ",
+          "id": "A"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "단체운동",
+          "id": "C1"
+        },
+        {
+          "className": "인공지능과 미래사회",
+          "id": "O"
+        },
+        {
+          "className": "법과 정치",
+          "id": "L2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "W"
+        },
+        {
+          "className": "아티언스",
+          "id": "X"
+        },
+        {
+          "className": "고급영어작문",
+          "id": "Z"
+        }
+      ]
+    },
+    {
+      "name": "조인성",
+      "id": "20515",
+      "data": [
+        {
+          "className": "(AP)미적분학Ⅱ",
+          "id": "D"
+        },
+        {
+          "className": "(AP)일반화학Ⅱ",
+          "id": "C"
+        },
+        {
+          "className": "(AP)일반생물학",
+          "id": "B"
+        },
+        {
+          "className": "융수Ⅰ",
+          "id": "M"
+        },
+        {
+          "className": "정수론",
+          "id": "N"
+        },
+        {
+          "className": "아름다운바이오",
+          "id": "L"
+        },
+        {
+          "className": "법과 정치",
+          "id": "O2"
+        },
+        {
+          "className": "논리적글쓰기",
+          "id": "Y"
+        },
+        {
+          "className": "아티언스",
+          "id": "A2"
+        },
+        {
+          "className": "고급영어토론",
+          "id": "X"
+        }
+      ]
+    }
+  ]
+}
